@@ -1,0 +1,13 @@
+﻿order_item_id,order_id,product_id,quantity,unit_price,item_options
+5001,1001,101,1,2800,"{""color"":""black"",""gift_wrap"":false}"
+5002,1001,103,2,1200,"{""length_m"":1.5,""gift_wrap"":false}"
+5003,1002,102,1,12800,"{""switch"":""brown"",""gift_wrap"":true}"
+5004,1002,103,3,1200,"{""length_m"":1.5,""gift_wrap"":true}"
+5005,1003,104,1,32800,"{""color"":""black"",""gift_wrap"":false}"
+5006,1004,106,4,1500,"{""grind"":""beans"",""gift_wrap"":false}"
+5007,1005,105,1,19800,"{""color"":""gray"",""gift_wrap"":true}"
+5008,1006,101,2,2800,"{""color"":""black"",""gift_wrap"":false}"
+5009,1006,102,1,12800,"{""switch"":""brown"",""gift_wrap"":false}"
+5010,1007,104,1,32800,"{""color"":""black"",""gift_wrap"":false}"
+5011,1008,103,5,1200,"{""length_m"":1.5,""gift_wrap"":true}"
+5012,1008,106,2,1500,"{""grind"":""beans"",""gift_wrap"":true}"

@@ -1,0 +1,8 @@
+﻿product_id,sku,product_name,category,price,is_active,tags,specs
+101,MOUSE-001,ワイヤレスマウス,PC周辺機器,2800,true,"{""wireless"",""gadget"",""beginner""}","{""color"":""black"",""connection"":""bluetooth"",""warranty_months"":12,""weight_g"":85}"
+102,KEYBOARD-001,メカニカルキーボード,PC周辺機器,12800,true,"{""keyboard"",""mechanical"",""gadget""}","{""switch"":""brown"",""layout"":""JIS"",""backlight"":true,""warranty_months"":24}"
+103,CABLE-001,USB-Cケーブル,アクセサリ,1200,true,"{""usb-c"",""mobile"",""gadget""}","{""length_m"":1.5,""power_delivery"":true,""warranty_months"":6}"
+104,MONITOR-001,27インチモニター,PC周辺機器,32800,true,"{""monitor"",""display"",""work""}","{""size_inch"":27,""resolution"":""2560x1440"",""refresh_rate"":144,""warranty_months"":36}"
+105,CHAIR-001,オフィスチェア,家具,19800,true,"{""chair"",""office"",""work""}","{""material"":""mesh"",""has_headrest"":true,""max_weight_kg"":120,""warranty_months"":12}"
+106,COFFEE-001,コーヒー豆,食品,1500,true,"{""coffee"",""food""}","{""origin"":""Brazil"",""roast"":""medium"",""weight_g"":200}"
+107,WEBCAM-OLD,旧型Webカメラ,PC周辺機器,4500,false,"{""webcam"",""old"",""gadget""}","{""resolution"":""720p"",""warranty_months"":0,""reason_inactive"":""discontinued""}"

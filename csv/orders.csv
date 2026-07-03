@@ -1,0 +1,9 @@
+﻿order_id,customer_id,order_date,status,payment_method,coupon_codes,delivery_address,order_note
+1001,1,2025-03-01 10:15:00,shipped,card,"{""WELCOME10""}","{""zip"":""100-0001"",""prefecture"":""東京都"",""city"":""千代田区"",""is_remote_area"":false}","{""gift"":false,""source"":""web""}"
+1002,2,2025-03-03 14:20:00,shipped,bank,"{""SPRINGSALE"",""KEYBOARD500""}","{""zip"":""330-0001"",""prefecture"":""埼玉県"",""city"":""さいたま市"",""is_remote_area"":false}","{""gift"":true,""source"":""web""}"
+1003,1,2025-03-10 09:05:00,canceled,card,{},"{""zip"":""100-0001"",""prefecture"":""東京都"",""city"":""千代田区"",""is_remote_area"":false}","{""gift"":false,""cancel_reason"":""customer_request"",""source"":""app""}"
+1004,3,2025-03-12 18:30:00,shipped,card,"{""FOOD100""}","{""zip"":""530-0001"",""prefecture"":""大阪府"",""city"":""大阪市"",""is_remote_area"":false}","{""gift"":false,""source"":""app""}"
+1005,4,2025-03-15 21:10:00,pending,convenience,"{""WELCOME10""}","{""zip"":""355-0001"",""prefecture"":""埼玉県"",""city"":""東松山市"",""is_remote_area"":false}","{""gift"":true,""source"":""web"",""memo"":""新居用""}"
+1006,5,2025-03-20 11:45:00,shipped,card,{},"{""zip"":""220-0001"",""prefecture"":""神奈川県"",""city"":""横浜市"",""is_remote_area"":false}","{""gift"":false,""source"":""web""}"
+1007,2,2025-04-01 08:25:00,shipped,card,"{""MONITOR1000""}","{""zip"":""330-0001"",""prefecture"":""埼玉県"",""city"":""さいたま市"",""is_remote_area"":false}","{""gift"":false,""source"":""web""}"
+1008,6,2025-04-05 16:40:00,pending,bank,"{""WELCOME10"",""COFFEE50""}","{""zip"":""160-0001"",""prefecture"":""東京都"",""city"":""新宿区"",""is_remote_area"":false}","{""gift"":true,""source"":""app""}"

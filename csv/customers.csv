@@ -1,0 +1,7 @@
+﻿customer_id,customer_name,email,prefecture,registered_at,phone_numbers,profile
+1,佐藤 花子,hanako.sato@example.com,東京都,2025-01-05,"{""090-1111-1111"",""03-1111-1111""}","{""rank"":""gold"",""age_group"":""30s"",""interests"":[""travel"",""coffee"",""gadget""],""notification"":{""email"":true,""sms"":false}}"
+2,鈴木 太郎,taro.suzuki@example.com,埼玉県,2025-01-20,"{""080-2222-2222""}","{""rank"":""silver"",""age_group"":""40s"",""interests"":[""desk_setup"",""keyboard""],""notification"":{""email"":true,""sms"":true}}"
+3,田中 美香,mika.tanaka@example.com,大阪府,2025-02-10,"{""070-3333-3333""}","{""rank"":""bronze"",""age_group"":""20s"",""interests"":[""food"",""coffee""],""notification"":{""email"":false,""sms"":true}}"
+4,牧野 ジェリエル,jaleel.makino@example.com,埼玉県,2025-02-15,"{""090-4444-4444"",""0493-44-4444""}","{""rank"":""gold"",""age_group"":""30s"",""interests"":[""travel"",""drive"",""gadget""],""notification"":{""email"":true,""sms"":true}}"
+5,山田 健,ken.yamada@example.com,神奈川県,2025-03-01,"{""080-5555-5555""}","{""rank"":""silver"",""age_group"":""50s"",""interests"":[""office"",""chair""],""notification"":{""email"":true,""sms"":false}}"
+6,小林 葵,aoi.kobayashi@example.com,東京都,2025-03-12,"{""070-6666-6666""}","{""rank"":""bronze"",""age_group"":""20s"",""interests"":[""gadget"",""monitor""],""notification"":{""email"":false,""sms"":false}}"

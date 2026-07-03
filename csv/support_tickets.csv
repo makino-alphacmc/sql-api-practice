@@ -1,0 +1,5 @@
+﻿ticket_id,customer_id,order_id,created_at,status,labels,messages
+9001,1,1001,2025-03-02 12:00:00,closed,"{""delivery"",""question""}","[{""sender"":""customer"",""message"":""配送日はいつですか？"",""sent_at"":""2025-03-02 12:00:00""},{""sender"":""support"",""message"":""明日到着予定です。"",""sent_at"":""2025-03-02 12:10:00""}]"
+9002,2,1002,2025-03-04 09:30:00,closed,"{""coupon"",""payment""}","[{""sender"":""customer"",""message"":""クーポンは適用されていますか？"",""sent_at"":""2025-03-04 09:30:00""},{""sender"":""support"",""message"":""2種類のクーポンが適用されています。"",""sent_at"":""2025-03-04 09:45:00""}]"
+9003,4,1005,2025-03-16 10:00:00,open,"{""gift"",""address_change""}","[{""sender"":""customer"",""message"":""ギフト包装と住所変更をお願いしたいです。"",""sent_at"":""2025-03-16 10:00:00""}]"
+9004,6,1008,2025-04-06 13:20:00,open,"{""pending"",""payment""}","[{""sender"":""customer"",""message"":""銀行振込の確認はいつ反映されますか？"",""sent_at"":""2025-04-06 13:20:00""}]"
