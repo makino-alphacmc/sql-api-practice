@@ -113,7 +113,7 @@
 **出力してほしいカラム:** order_id, customer_id, coupon_codes
 **ソート条件:** order_idの昇順
 
-**結果:** 未回答
+**結果:** ✅ 正解（1回目は`IS NOT NULL`でNULL判定と空配列判定を混同、模範解答提示後の2回目で✅）
 
 ---
 
